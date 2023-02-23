@@ -1,0 +1,26 @@
+body {
+    background-color: #4e4e4e;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #eeeeee;
+}
+
+h1 {
+    color: #0080ff;
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}

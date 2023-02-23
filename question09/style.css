@@ -1,0 +1,15 @@
+.destaque {
+    background-color: #fefeae;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .destaque-titulo {
+    color: #333;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .destaque-descricao {
+    color: #666;
+    font-size: 16px;
+  }

@@ -1,0 +1,24 @@
+/* Estilo para a tabela */
+table {
+    border-collapse: collapse;
+    border: 2px solid #ddd;
+    width: 100%;
+  }
+  
+  /* Estilo para cada célula da tabela */
+  td {
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+  }
+
+  th {
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    background-color: #2a14ec;
+    border: 1px solid #ddd;
+    color: #fff;
+  }

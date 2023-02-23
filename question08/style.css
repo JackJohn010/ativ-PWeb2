@@ -1,0 +1,14 @@
+.comentario {
+    background-color: #e6e6e6;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .comentario-autor {
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .comentario-data {
+    color: #666;
+    font-size: 12px;
+  }
